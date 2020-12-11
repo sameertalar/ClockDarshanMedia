@@ -1,0 +1,19 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 202B-AAC6
+
+ Directory of C:\_Code\sameertalar.com\ClockDarshanMedia\chunkaudios
+
+12/10/2020  08:26 PM         6,459,992 Suprabhatam_00_Ganesha.mp3
+12/10/2020  08:27 PM         6,039,704 Suprabhatam_05_Laxmi.mp3
+12/10/2020  08:28 PM         5,671,792 Suprabhatam_10_Saraswati.mp3
+12/10/2020  08:29 PM         6,515,584 Suprabhatam_15_GagangiriMaharaj.mp3
+12/10/2020  08:30 PM         6,215,392 Suprabhatam_30_Durga.mp3
+12/10/2020  08:31 PM         5,631,424 Suprabhatam_35_Hanuman.mp3
+12/10/2020  08:32 PM         6,276,136 Suprabhatam_45_Shiv.mp3
+12/10/2020  08:33 PM         6,742,696 Suprabhatam_50_SaiBaba.mp3
+12/10/2020  08:34 PM         5,551,120 Suprabhatam_55_Venkatesha.mp3
+               9 File(s)     55,103,840 bytes
+
+     Total Files Listed:
+               9 File(s)     55,103,840 bytes
+               0 Dir(s)  44,303,294,464 bytes free
